@@ -81,7 +81,7 @@ Argon 是**一款干净整洁的 OpenWrt LuCI 主题**，
 
 ## 版本历史
 
-当前最新的版本为 v2.3.1 [点击这里][zh-cn-release-log]查看完整的版本历史日志.
+当前最新的版本为 v2.4.3 [点击这里][zh-cn-release-log]查看完整的版本历史日志.
 
 ## 快速开始
 
@@ -116,7 +116,7 @@ opkg install luci-theme-argon*.ipk
 ```bash
 opkg install luci-compat
 opkg install luci-lib-ipkg
-wget --no-check-certificate https://github.com/jerrykuku/luci-theme-argon/releases/download/v2.3.1/luci-theme-argon_2.3.1_all.ipk
+wget --no-check-certificate https://github.com/jerrykuku/luci-theme-argon/releases/download/v2.3.2/luci-theme-argon_2.3.2-r20250207_all.ipk
 opkg install luci-theme-argon*.ipk
 ```
 
